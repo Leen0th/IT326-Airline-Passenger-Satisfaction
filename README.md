@@ -1,2 +1,14 @@
 # IT326-Online-Shoppers-Intention
-Raseel Aldawish
+
+<H1>Our Motivation:</H1>
+<h4>
+  
+</h4>
+
+<ul>
+<li>Leen Alotaibi</li>
+<li>Raseel Aldawish</li>
+<li></li>
+<li></li>
+
+</ul>
