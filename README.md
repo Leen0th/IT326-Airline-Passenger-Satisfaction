@@ -1,4 +1,4 @@
-# IT326-Online-Shoppers-Intention
+# IT326-Student-Behavior
 
   <h1>Project Information</h1>
 
