@@ -5,7 +5,7 @@
   
 </h4>
 
-<h2>students:</h2>
+<h2>Students:</h2>
 <ul>
   <li>Leen Alotaibi</li>
   <li>Raseel Aldawish</li>
