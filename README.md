@@ -10,5 +10,4 @@
 <li>Raseel Aldawish</li>
 <li>Leen Alqahtani</li>
 <li>Shooq Aldawsari</li>
-
 </ul>
