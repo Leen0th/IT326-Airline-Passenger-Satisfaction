@@ -8,7 +8,7 @@
   
   <p>In today's highly competitive airline industry, understanding passenger satisfaction is crucial for maintaining a loyal customer base and gaining a competitive edge. <p>
 
-  <p>We're diving into this problem because we want to understand exactly what makes passenger happy or unhappy. With a bunch of data about different parts of the flying experience, we're ready to dig in and find out what really matters to passengers. Our aim is to find insights that can help airlines do a better job of keeping their customers satisfied.</p>
+  <p>We wanted to work on this dataset because we want to understand exactly what factors contribute to passenger satisfaction. With a bunch of data about different parts of the flying experience, we're ready to uncover what really matters to passengers. Our aim is to find insights that can help airlines do a better job of keeping their customers satisfied.</p>
 
   <h3>Students Involved |</h3>
   <ul>
