@@ -1,13 +1,12 @@
-# IT326-Car-Accident
+# IT326-Airline-Passenger-Satisfaction
 
   <h1>Project Information</h1>
 
-  <h2>Project Title: Analyzing Accidents for Improved Safety</h2>
+  <h2>Project Title: Analyzing Airline Passenger Satisfaction: Identifying Key Factors for Enhanced Travel Experiences</h2>
   
-  <h3>Project Motivation: Making Roads Safer with Data</h3>
-  <p>Understanding why accidents happen is super important for making roads safer.</p>
+  <h3>Project Motivation: In today's highly competitive airline industry, understanding passenger satisfaction is crucial for maintaining a loyal customer base and gaining a competitive edge. </h3>
 
-  <p>We decided to work on this problem because we care about keeping people safe on the road. We want to find out why accidents happen and what we can do to stop them. We'll look for connections between different things like the weather, the time of day, and where the accidents happen. Our goal is to find useful insights that can help make roads safer for everyone. We're eager to use this data to make a positive difference in our communities.</p>
+  <p>We're diving into this problem because we want to understand exactly what makes passenger happy or unhappy. With a bunch of data about different parts of the flying experience, we're ready to dig in and find out what really matters to passengers. Our aim is to find insights that can help airlines do a better job of keeping their customers satisfied.</p>
 
   <h3>Students Involved:</h3>
   <ul>
@@ -19,4 +18,7 @@
 
 </body>
 </html>
+
+
+
 
