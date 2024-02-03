@@ -2,7 +2,7 @@
 
   <h1>Project Information</h1>
 
-  <h2>Project Title: Analyzing Airline Passenger Satisfaction: Identifying Key Factors for Enhanced Travel Experiences</h2>
+  <h2>Project Title| Analyzing Airline Passenger Satisfaction: Identifying Key Factors for Enhanced Travel Experiences</h2>
   
   <h3>Project Motivation: In today's highly competitive airline industry, understanding passenger satisfaction is crucial for maintaining a loyal customer base and gaining a competitive edge. </h3>
 
