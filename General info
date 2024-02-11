@@ -1,0 +1,56 @@
+##General information
+
+Number of Attributes :24 , Number of Object:500,Class lable: satisfaction has tow level Satisfaction if the passenger is satisfied,neutral or dissatisfaction if not .
+
+1-id : Unique identifier for the passenger 
+2- Gender:Gender of the passengers (Female, Male)
+3- Customer Type:The customer type (Loyal customer, disloyal customer)
+4- Age:The actual age of the passengers
+5- Type of Travel:Purpose of the flight of the passengers (Personal Travel, Business Travel)"
+6-Class:Travel class in the plane of the passengers (Business, Eco, Eco Plus)
+7- Flight distance:The flight distance of this journey
+8- "Inflight wifi service:Satisfaction level of the inflight wifi service (0:Not Applicable;1-5)"
+9= Departure/Arrival time convenient : Satisfaction level of Departure/Arrival time convenient
+10- Ease of Online booking:Satisfaction level of online booking
+11- Gate location : Satisfaction level of Gate location
+12- Food and drink : Satisfaction level of Food and drink
+13- Online boarding:Satisfaction level of online boarding
+14- Seat comfort : Satisfaction level of Seat comfort
+15- Inflight entertainment : Satisfaction level of inflight entertainment
+16- On-board service : Satisfaction level of On-board service
+17- Leg room service : Satisfaction level of Leg room service
+18- Baggage handling : Satisfaction level of baggage handling
+19- Check-in service : Satisfaction level of Check-in service
+20- Inflight service:Satisfaction level of inflight service
+21- Cleanliness : Satisfaction level of Cleanliness
+22- Departure Delay in Minutes : Minutes delayed when departure
+23- Arrival Delay in Minutes : Minutes delayed when Arrival
+24- Satisfaction:Airline satisfaction level(Satisfaction, neutral or dissatisfaction)
+
+
+| Attribute Name                     | Data Type | Description                                                               | Possible Values                                            |
+|------------------------------------|-----------|---------------------------------------------------------------------------|------------------------------------------------------------|
+| id                                 | Integer   | Unique identifier for the passenger                                       | Numeric IDs                                                |
+| Gender                             | String    | Gender of the passenger                                                   | Male, Female                                               |
+| Customer Type                      | String    | Type of the customer                                                      | Loyal Customer, disloyal Customer                          |
+| Age                                | Integer   | Age of the passenger                                                      | Numeric ages                                               |
+| Type of Travel                     | String    | Purpose of the flight                                                     | Business travel, Personal Travel                           |
+| Class                              | String    | Class of the flight                                                       | Eco, Business, Eco Plus                                    |
+| Flight Distance                    | Integer   | Distance of the flight                                                    | Numeric distances  31 to 4983                              |
+| Inflight wifi service              | Integer   | Satisfaction level with inflight wifi service                             | 0 to 5                                                     |
+| Departure/Arrival time convenient  | Integer   | Satisfaction level with departure/arrival time convenience                | 0 to 5                                                     |
+| Ease of Online booking             | Integer   | Satisfaction level with online booking ease                               | 0 to 5                                                     |
+| Gate location                      | Integer   | Satisfaction level with gate location                                     | 0 to 5                                                     |
+| Food and drink                     | Integer   | Satisfaction level with food and drink                                    | 0 to 5                                                     |
+| Online boarding                    | Integer   | Satisfaction level with online boarding                                   | 0 to 5                                                     |
+| Seat comfort                       | Integer   | Satisfaction level with seat comfort                                      | 0 to 5                                                     |
+| Inflight entertainment             | Integer   | Satisfaction level with inflight entertainment                            | 0 to 5                                                     |
+| On-board service                   | Integer   | Satisfaction level with on-board service                                  | 0 to 5                                                     |
+| Leg room service                   | Integer   | Satisfaction level with leg room service                                  | 0 to 5                                                     |
+| Baggage handling                   | Integer   | Satisfaction level with baggage handling                                  | 0 to 5                                                     |
+| Checkin service                    | Integer   | Satisfaction level with checkin service                                   | 0 to 5                                                     |
+| Inflight service                   | Integer   | Satisfaction level with inflight service                                  | 0 to 5                                                     |
+| Cleanliness                        | Integer   | Satisfaction level with cleanliness                                       | 0 to 5                                                     |
+| Departure Delay in Minutes         | Integer   | Minutes delayed at departure                                              | Numeric minutes 0-1592                                     |
+| Arrival Delay in Minutes           | Integer   | Minutes delayed on arrival                                                | Numeric minutes 0-158000                                   |
+| satisfaction                       | String    | Overall satisfaction with the flight                                      | satisfied, neutral or dissatisfied                         |
