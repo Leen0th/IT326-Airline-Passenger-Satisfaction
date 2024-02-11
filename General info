@@ -1,6 +1,8 @@
 ##General information
 
-Number of Attributes :24 , Number of Object:500,Class lable: satisfaction has tow level Satisfaction if the passenger is satisfied,neutral or dissatisfaction if not .
+Number of Attributes: 24 
+Number of Object: 500
+Class lable: satisfaction has tow level Satisfaction if the passenger is satisfied,neutral or dissatisfaction if not
 
 1- id: Unique identifier for the passenger 
 2- Gender: Gender of the passengers (Female, Male)
